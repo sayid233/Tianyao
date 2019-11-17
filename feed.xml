@@ -3,7 +3,7 @@
     <title>tianyaoportfolio.com</title>
     <link href="https://sayid233.github.io/Tianyao/feed.xml" rel="self" />
     <link href="https://sayid233.github.io/Tianyao" />
-    <updated>2019-11-17T22:50:02+08:00</updated>
+    <updated>2019-11-17T22:55:18+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
@@ -70,7 +70,7 @@
         <link href="https://sayid233.github.io/Tianyao/gift-line/"/>
         <id>https://sayid233.github.io/Tianyao/gift-line/</id>
 
-        <updated>2019-11-17T19:30:49+08:00</updated>
+        <updated>2019-11-17T22:53:41+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
@@ -80,7 +80,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
-                <p><em>An applets make the public service activity more fun and attract more people join in buying books for poor kids. Meanwhile, it can enhance the impact of bookstore and become popular.</em></p>
+                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" width="8000" height="6500"></figure>
+<p><em>An applets make the public service activity more fun and attract more people join in buying books for poor kids. Meanwhile, it can enhance the impact of bookstore and become popular.</em></p>
 <h2 id="mcetoc_1dpn4oeau0" class="align-center">Background</h2>
 <p>Xinhua Bookstore is a traditional bookstore with a long history. With the development of the Internet, the channels for people to read have become diversified, and the understanding of bookstores has also changed. Xinhua Bookstore hopes to reorient its development direction through cooperation with Thoughtworks to gain more attention from users and increase their market share. I decided to choose the keyword “public service activity” to try to solve the problem.</p>
 <blockquote>
@@ -203,7 +204,7 @@
         <link href="https://sayid233.github.io/Tianyao/youre-chef/"/>
         <id>https://sayid233.github.io/Tianyao/youre-chef/</id>
 
-        <updated>2019-11-17T19:18:58+08:00</updated>
+        <updated>2019-11-17T22:53:59+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" />
@@ -213,7 +214,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" />
-                <p><em>Website designed to make busy life easier and improve the life quality through food packages</em></p>
+                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" width="4368" height="2601"></figure>
+<p><em>Website designed to make busy life easier and improve the life quality through food packages</em></p>
 <h2 id="mcetoc_1dpmu14s70" class="align-center">Background</h2>
 <p>As a student, I’m often looking out for opportunities to gain some experience conceptualizing and designing applications end-to-end. When I was studying abroad in America, I found it’s really difficult to decide what to cook everyday. I usually spent 2 hours on preparing food and cooking, but it only takes me 5 minutes to eat. After that, I have to do the dishes. I love cooking, because it’s healthy and cheap. However, I just feel too tired to cook after studying at most time. I feel like it’s a common problem for all the young people.<br><br>I attempted to design a solution that would help customers have fun in the kitchen and learn to cook delicious meals. I framed out design challenge as follows:</p>
 <blockquote>
@@ -256,7 +258,7 @@
         <link href="https://sayid233.github.io/Tianyao/voibook-training-app/"/>
         <id>https://sayid233.github.io/Tianyao/voibook-training-app/</id>
 
-        <updated>2019-11-17T20:01:51+08:00</updated>
+        <updated>2019-11-17T22:54:15+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" />
@@ -266,7 +268,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" />
-                <p class="align-center"><em>Listening and Speaking training APP for hearing-loss people. </em></p>
+                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" width="4188" height="2832"></figure>
+<p class="align-center"><em>Listening and Speaking training APP for hearing-loss people. </em></p>
 <h2 id="mcetoc_1dpmp73g90" class="align-center"><strong>Background</strong></h2>
 <blockquote>
 <p>I am a hearing-loss person with a cochlear implant. Now I need to practice listening and speaking skills. I have found some software by myself, including Angel Sound,Mandarin Learning and even Chinese proficiency test Apps. Most Mandarin learning apps assume that users can understand Mandarin directly and easily, also the hearing-loss are not their target users.</p>
@@ -338,7 +341,7 @@
         <link href="https://sayid233.github.io/Tianyao/strawberry/"/>
         <id>https://sayid233.github.io/Tianyao/strawberry/</id>
 
-        <updated>2019-11-17T18:10:55+08:00</updated>
+        <updated>2019-11-17T22:54:28+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" />
@@ -348,7 +351,8 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" />
-                <p><em>An App to help couples maintain their long distance relationship through artificial intelligence.</em></p>
+                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" width="1366" height="946"></figure>
+<p><em>An App to help couples maintain their long distance relationship through artificial intelligence.</em></p>
 <h2 id="mcetoc_1dpl6cdng0" class="align-center">Background</h2>
 <blockquote>
 <p>I was very happy talking on the phone one second before, but when I hang up the phone, my tears ran down my cheek.</p>
@@ -430,7 +434,7 @@
         <link href="https://sayid233.github.io/Tianyao/shopee-redesign/"/>
         <id>https://sayid233.github.io/Tianyao/shopee-redesign/</id>
 
-        <updated>2019-11-17T17:16:22+08:00</updated>
+        <updated>2019-11-17T22:55:05+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" />
@@ -440,7 +444,10 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" />
-                <p><em>This case study will analyse in detail and aim to improve the user experience that Shopee buyers have when using the app to find and choose products.</em></p>
+                <figure class="post__image">
+<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" width="5774" height="6209"></figure>
+</figure>
+<p><em>This case study will analyse in detail and aim to improve the user experience that Shopee buyers have when using the app to find and choose products.</em></p>
 <h2 id="mcetoc_1dpl47f5e0" class="align-center">Design Process</h2>
 <h2 id="mcetoc_1dpsa5ilh0" class="align-center"><img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/5/double-diamond.png" alt="" width="429" height="283"></h2>
 <h3 id="mcetoc_1dpl49jjo1" class="align-center">Discover</h3>
@@ -502,7 +509,7 @@
         <link href="https://sayid233.github.io/Tianyao/cloud-shopping-cart/"/>
         <id>https://sayid233.github.io/Tianyao/cloud-shopping-cart/</id>
 
-        <updated>2019-11-17T17:12:21+08:00</updated>
+        <updated>2019-11-17T22:55:14+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" />
@@ -512,7 +519,10 @@
         <content type="html">
             <![CDATA[
                     <img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" />
-                <figure class="post__image"><em>A function that can improve the user experience of people who have </em><em>roommates when they shop online togethter and split the bill.</em></figure>
+                <figure class="post__image">
+<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" width="5774" height="6265"></figure>
+</figure>
+<figure class="post__image"><em>A function that can improve the user experience of people who have </em><em>roommates when they shop online togethter and split the bill.</em></figure>
 <h2 id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong>Background</strong></h2>
 <p>As a college student, I almost buy all the things online. And when I mentioned what I bought  with my roommates or when my roommates see things I bought, they would ask me for the link. Since we always shop in the same store online, I found it’s tiresome to wait for my roommates to choose and it’s complicated to split the money, especially there is a coupon. Also, it’s easy to forget to pay back to the person who paid all the stuff.<br><br>So I want to design a function module of an APP to solve the problem and improve the user experience of people who have roommates and like to shop together online. I framed out design challenge as follows:</p>
 <blockquote>
