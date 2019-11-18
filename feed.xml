@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>tianyaoportfolio.com</title>
-    <link href="https://sayid233.github.io/Tianyao/feed.xml" rel="self" />
-    <link href="https://sayid233.github.io/Tianyao" />
-    <updated>2019-11-18T12:41:31+08:00</updated>
+    <link href="http://tianyao.fun/feed.xml" rel="self" />
+    <link href="http://tianyao.fun" />
+    <updated>2019-11-18T15:41:11+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
-    <id>https://sayid233.github.io/Tianyao</id>
+    <id>http://tianyao.fun</id>
 
     <entry>
         <title>Drone Video</title>
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/drone-video/"/>
-        <id>https://sayid233.github.io/Tianyao/drone-video/</id>
+        <link href="http://tianyao.fun/drone-video/"/>
+        <id>http://tianyao.fun/drone-video/</id>
 
         <updated>2019-11-17T22:42:47+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/13/Untitled-1-01.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/13/Untitled-1-01.jpg" alt="" />
                     This is a final project from a class in Pittsburg State University.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/13/Untitled-1-01.jpg" alt="" />
+                    <img src="http://tianyao.fun/media/posts/13/Untitled-1-01.jpg" alt="" />
                 <figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/330685846?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <p><em>This is a final project from a class in Pittsburg State University. The content is about the Art building in PSU.</em></p>
             ]]>
@@ -37,19 +37,19 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/disappearing-island/"/>
-        <id>https://sayid233.github.io/Tianyao/disappearing-island/</id>
+        <link href="http://tianyao.fun/disappearing-island/"/>
+        <id>http://tianyao.fun/disappearing-island/</id>
 
         <updated>2019-11-17T22:45:15+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/12/342352-01.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/12/342352-01.jpg" alt="" />
                     From this project, We wanna show the importance of protecting our environment&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/12/342352-01.jpg" alt="" />
+                    <img src="http://tianyao.fun/media/posts/12/342352-01.jpg" alt="" />
                 <figure class="post__video"><iframe width="425" height="350" src="https://player.vimeo.com/video/330686245?title=0&amp;amp;byline=0" allowfullscreen="allowfullscreen"></iframe></figure>
 <p><em>From this project, We wanna show the importance of protecting our environment through information visualization in 3 interactive installations.</em></p>
 <h3 id="mcetoc_1dpqa6la10" class="align-center" style="color: #5252f0; font-family: 'Raleway', sans-serif;"><strong>Glacier is melting</strong></h3>
@@ -67,20 +67,20 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/gift-line/"/>
-        <id>https://sayid233.github.io/Tianyao/gift-line/</id>
+        <link href="http://tianyao.fun/gift-line/"/>
+        <id>http://tianyao.fun/gift-line/</id>
 
         <updated>2019-11-17T22:53:41+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
                     An applets make the public service activity more fun and attract more&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
-                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/10/Tu-Shu-Guan.jpg" alt="" width="8000" height="6500"></figure>
+                    <img src="http://tianyao.fun/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
+                <figure class="post__image"><img src="http://tianyao.fun/media/posts/10/Tu-Shu-Guan.jpg" alt="" width="8000" height="6500"></figure>
 <p><em>An applets make the public service activity more fun and attract more people join in buying books for poor kids. Meanwhile, it can enhance the impact of bookstore and become popular.</em></p>
 <h2 id="mcetoc_1dpn4oeau0" class="align-center">Background</h2>
 <p>Xinhua Bookstore is a traditional bookstore with a long history. With the development of the Internet, the channels for people to read have become diversified, and the understanding of bookstores has also changed. Xinhua Bookstore hopes to reorient its development direction through cooperation with Thoughtworks to gain more attention from users and increase their market share. I decided to choose the keyword “public service activity” to try to solve the problem.</p>
@@ -99,21 +99,21 @@
 <br>
 <pre id="mcetoc_1dpn4v6f53" class="align-center">Competitive Analysis</pre>
 <p>After looking for a lot of successful bookstores, I found that there are 4 types of bookstore.</p>
-<figure class="post__image">                 <img src="https://sayid233.github.io/Tianyao/media/posts/10/91.png" alt="" width="588" height="233"></figure>
+<figure class="post__image">                 <img src="http://tianyao.fun/media/posts/10/91.png" alt="" width="588" height="233"></figure>
 <pre id="mcetoc_1dpn4v6f53" class="align-center">Brainstorming</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/10/92.png" alt="" width="1366" height="1104"></figure>
-<pre id="mcetoc_1dpn4v6f53" class="align-center">Persona<img src="https://sayid233.github.io/Tianyao/media/posts/10/93.png" alt="" width="1366" height="638"></pre>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/10/92.png" alt="" width="1366" height="1104"></figure>
+<pre id="mcetoc_1dpn4v6f53" class="align-center">Persona<img src="http://tianyao.fun/media/posts/10/93.png" alt="" width="1366" height="638"></pre>
 <pre id="mcetoc_1dpn4v6f53" class="align-center">User Journey Map</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/10/94.png" alt="" width="1366" height="938"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/10/94.png" alt="" width="1366" height="938"></figure>
 <h3 id="mcetoc_1dpn5p3nn0" class="align-center">Gift-Line</h3>
 <blockquote>
 <p>Through a line, find a book, help a kid and make a friend.</p>
 </blockquote>
 <p>The main prupose of this design is to make the public service activity more fun and attract more people join in. This activity can be a popular thing to do and enhance the impact of XinHua bookstore. People like to go to XinHua bookstore to buy books for poor children and be friends with them.</p>
 <pre id="mcetoc_1dpn5qebs1" class="align-center">Wireframing</pre>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/10/95.png" alt="" width="1197" height="996"></p>
+<p><img src="http://tianyao.fun/media/posts/10/95.png" alt="" width="1197" height="996"></p>
 <h3 id="mcetoc_1dpn5qebs1" class="align-center" style="font-family: 'Raleway',sans-serif;">High fidelity</h3>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/10/TW-Bi-Shi.png" alt="" width="1132" height="1095"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/10/TW-Bi-Shi.png" alt="" width="1132" height="1095"></figure>
             ]]>
         </content>
     </entry>
@@ -122,23 +122,25 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/usability-test-for-student-id-card-system/"/>
-        <id>https://sayid233.github.io/Tianyao/usability-test-for-student-id-card-system/</id>
+        <link href="http://tianyao.fun/usability-test-for-student-id-card-system/"/>
+        <id>http://tianyao.fun/usability-test-for-student-id-card-system/</id>
 
-        <updated>2019-11-18T12:41:26+08:00</updated>
+        <updated>2019-11-18T15:28:31+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="http://tianyao.fun/media/posts/9/dgfsfg.jpg" alt="" />
                     A school project of doing usability test for student I.D. card system&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center"><em>A school project of doing usability test for student I.D. card system</em> <img src="https://sayid233.github.io/Tianyao/media/posts/9/64.png" alt="" width="233" height="204"></p>
+                    <img src="http://tianyao.fun/media/posts/9/dgfsfg.jpg" alt="" />
+                <p class="align-center"><em>A school project of doing usability test for student I.D. card system</em> <img src="http://tianyao.fun/media/posts/9/64.png" alt="" width="233" height="204"></p>
 <h2 id="mcetoc_1dpmvjeim0" class="align-center">Background</h2>
 <p>The student I.D. card system is an important part of school management. Current student I.D. has more than 30 major functions, which covers all aspects of school life, but of course the student I.D. system is still in the process of continuous development. Most schools are still using a machine to achieve a lot of functions such as card recharging, paying air conditioning fee, paying Internet fee…<br><br>We found that the usability and ease of use of the machine in SCUT are pretty bad, so we are gonna try to improve the system through the usability test.</p>
 <h3 id="mcetoc_1dpmvkq211" class="align-center">Old structure</h3>
 <p>We tried all the functions of the machine and concluded the information structure of the student I.D. system now.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/65.png" alt="" width="1052" height="1175"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/65.png" alt="" width="1052" height="1175"></figure>
 <h3 id="mcetoc_1dpmvmina2" class="align-center">Objectives</h3>
 <ul style="list-style-type: circle;">
 <li><strong>Evaluate the ease of use of the basic functional operation procedures such as air-</strong><strong>conditioning fee recharge and Internet fee payment in the student I.D. card machine through the usability test.</strong></li>
@@ -148,48 +150,48 @@
 <h2 id="mcetoc_1dpmvnsvg3" class="align-center">Test</h2>
 <pre id="mcetoc_1dpmvo4lr4" class="align-center">User Profile</pre>
 <p class="align-center">We found 20 SCUT students to help us do the usability test.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/66.png" alt="" width="1147" height="343"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/66.png" alt="" width="1147" height="343"></figure>
 <pre id="mcetoc_1dpmvo4lr4" class="align-center">Method</pre>
 <p class="align-center msg msg--highlight ">Speaking loudly while doing the task</p>
 <pre id="mcetoc_1dpmvs64q5" class="align-center">Usability test SOP</pre>
 <p class="align-center">The following form is our standard operation procedure of the test.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/67.png" alt="" width="1110" height="1274"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/67.png" alt="" width="1110" height="1274"></figure>
 <pre id="mcetoc_1dpmvs64q5" class="align-center">Test factors</pre>
 <p class="align-center">Those 3 elements are our main focus during the test</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/70.png" alt="" width="1110" height="388"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/70.png" alt="" width="1110" height="388"></figure>
 <h2 id="mcetoc_1dpmvvshp6" class="align-center">Analysis</h2>
 <pre id="mcetoc_1dpn004li7" class="align-center">SUS</pre>
 <p>Through calculation, we concluded that the student I.D. card system’s score is 25.625, equals level F. That means the process of air conditioning and Internet fee recharge still have a lot of problems, those can definitely be improved a lot.</p>
-<figure class="post__image">                  <img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/9/71.png" alt="" width="581" height="471"></figure>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/72.png" alt="" width="1096" height="378"><br>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/555555555555.png" alt="" width="1096" height="961"></figure>
+<figure class="post__image">                  <img class="align-center" src="http://tianyao.fun/media/posts/9/71.png" alt="" width="581" height="471"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/72.png" alt="" width="1096" height="378"><br>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/555555555555.png" alt="" width="1096" height="961"></figure>
 <h3 id="mcetoc_1dpn0bgh48" class="align-center">Solution</h3>
 <pre id="mcetoc_1dpn0e3mua" class="align-center">Internet fee recharge</pre>
 <p class="align-center">The lists below are problems we found during the test.</p>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/9/75.png" alt="" width="1182" height="736"></p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/76.png" alt="" width="1250" height="424"><br>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/66666666666666.png" alt="" width="1250" height="1008"></figure>
+<p><img src="http://tianyao.fun/media/posts/9/75.png" alt="" width="1182" height="736"></p>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/76.png" alt="" width="1250" height="424"><br>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/66666666666666.png" alt="" width="1250" height="1008"></figure>
 </figure>
 <h3 id="mcetoc_1dpn0bgh48" class="align-center">Solution</h3>
 <pre id="mcetoc_1dpn0e3mua" class="align-center">Air conditioning fee recharge</pre>
 <p class="align-center">The lists below are problems we found during the test.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/79.png" alt="" width="1182" height="859"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/79.png" alt="" width="1182" height="859"></figure>
 <h2 id="mcetoc_1dpn0pdsmc" class="align-center">Redesign</h2>
 <pre id="mcetoc_1dpn0po16d" class="align-center">Structure</pre>
 <p class="align-center">We reorganized the structure of the student I.D. system to make it easy to operate.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/77777777777.png" alt="" width="1196" height="666"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/77777777777.png" alt="" width="1196" height="666"></figure>
 <pre id="mcetoc_1dpn0rcq5e" class="align-center">Wireframing</pre>
 <address class="align-center"> </address><address id="mcetoc_1dpn101s12" class="align-center"><strong>Interne fee recharge</strong></address>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/81.png" alt="" width="1143" height="590"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/81.png" alt="" width="1143" height="590"></figure>
 <address id="mcetoc_1dpn1aka10" class="align-center"><strong>Air conditioning fee recharge</strong></address>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/9/82.png" alt="" width="1143" height="1168"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/9/82.png" alt="" width="1143" height="1168"></figure>
 <h2 id="mcetoc_1dpn1c2fk1" class="align-center">Result</h2>
 <pre id="mcetoc_1dpn1caui2" class="align-center">Comparison</pre>
 <address class="align-center"> </address><address id="mcetoc_1dpn1cl3j3" class="align-center"><strong>Interne fee recharge</strong></address>
-<h4 id="mcetoc_1dpn1fpqi4" class="align-center"><img src="https://sayid233.github.io/Tianyao/media/posts/9/83.png" alt="" width="1170" height="636"></h4>
+<h4 id="mcetoc_1dpn1fpqi4" class="align-center"><img src="http://tianyao.fun/media/posts/9/83.png" alt="" width="1170" height="636"></h4>
 <figure class="post__image"><address id="mcetoc_1dpn1cl3j3" class="align-center"><strong>Air conditioning fee recharge</strong></address>
 <p> </p>
-<img src="https://sayid233.github.io/Tianyao/media/posts/9/84.png" alt="" width="1170" height="650"></figure>
+<img src="http://tianyao.fun/media/posts/9/84.png" alt="" width="1170" height="650"></figure>
 </figure>
             ]]>
         </content>
@@ -199,20 +201,20 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/youre-chef/"/>
-        <id>https://sayid233.github.io/Tianyao/youre-chef/</id>
+        <link href="http://tianyao.fun/youre-chef/"/>
+        <id>http://tianyao.fun/youre-chef/</id>
 
         <updated>2019-11-17T22:53:59+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/8/vcgnc_15.jpg" alt="" />
                     Website designed to make busy life easier and improve the life quality&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" />
-                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/vcgnc_15.jpg" alt="" width="4368" height="2601"></figure>
+                    <img src="http://tianyao.fun/media/posts/8/vcgnc_15.jpg" alt="" />
+                <figure class="post__image"><img src="http://tianyao.fun/media/posts/8/vcgnc_15.jpg" alt="" width="4368" height="2601"></figure>
 <p><em>Website designed to make busy life easier and improve the life quality through food packages</em></p>
 <h2 id="mcetoc_1dpmu14s70" class="align-center">Background</h2>
 <p>As a student, I’m often looking out for opportunities to gain some experience conceptualizing and designing applications end-to-end. When I was studying abroad in America, I found it’s really difficult to decide what to cook everyday. I usually spent 2 hours on preparing food and cooking, but it only takes me 5 minutes to eat. After that, I have to do the dishes. I love cooking, because it’s healthy and cheap. However, I just feel too tired to cook after studying at most time. I feel like it’s a common problem for all the young people.<br><br>I attempted to design a solution that would help customers have fun in the kitchen and learn to cook delicious meals. I framed out design challenge as follows:</p>
@@ -221,29 +223,29 @@
 </blockquote>
 <h2 id="mcetoc_1dpmu2ujp1" class="align-center">Exploratory Research</h2>
 <pre id="mcetoc_1dpmu5hv22" class="align-center" style="color: #8c992e;">Competitive Analysis</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/58.png" alt="" width="1199" height="472"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/8/58.png" alt="" width="1199" height="472"></figure>
 <p>I found that surprisingly there is no food box subscription service in China. So I analysed several famous food box subscription websites in America. there are a lot of different kinds of food boxes, such as grocery box(ingredients), pre-made food box, baking box, snack box and so on.<br><br>The good thing is that they are convenient and healthy. They want their customers to enjoy food. They also have special menu considered for vegetarian and people who want to keep fit. Mostly customers can choose what they want, but those choices are limited. It seems most food boxes are designed for two people or more, but actually people who live alone also need such service. The reason is they can’t buy a lot of food at one time and usually it’s kind difficult to cook the right amount for one person.</p>
 <h2 id="mcetoc_1dpmu9egt3" class="align-center">Genertive Research</h2>
 <pre id="mcetoc_1dpmu9uhj4" class="align-center" style="color: #8c992e;">Scenarios</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/59.png" alt="" width="1170" height="690"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/8/59.png" alt="" width="1170" height="690"></figure>
 <pre id="mcetoc_1dpmu9uhj4" class="align-center" style="color: #8c992e;">Solution</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/60.png" alt="" width="1170" height="209"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/8/60.png" alt="" width="1170" height="209"></figure>
 <pre id="mcetoc_1dpmu9uhj4" class="align-center" style="color: #8c992e;">Structure</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/61.png" alt="" width="1075" height="567"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/8/61.png" alt="" width="1075" height="567"></figure>
 <p>With our concept direction set, I began creating wireframes. I developed various iterations of the key features.</p>
 <pre id="mcetoc_1dpmug3515" class="align-center" style="color: #8c992e;">Sketch</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/8/62.png" alt="" width="1034" height="908"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/8/62.png" alt="" width="1034" height="908"></figure>
 <h3 id="mcetoc_1dpmuk6lb6" class="align-center" style="color: #c8dc69; font-family: 'Raleway',sans-serif;">U’re Chef</h3>
-<h3 id="mcetoc_1dpsh2l0g0" class="align-center" style="color: #c8dc69; font-family: 'Raleway',sans-serif;"><img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/8/63.png" alt="" width="562" height="343"></h3>
+<h3 id="mcetoc_1dpsh2l0g0" class="align-center" style="color: #c8dc69; font-family: 'Raleway',sans-serif;"><img class="align-center" src="http://tianyao.fun/media/posts/8/63.png" alt="" width="562" height="343"></h3>
 <div class="gallery"   >
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Home.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Home-thumbnail.png" alt="" width="768" height="2014"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Grocery-Box-1.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Grocery-Box-1-thumbnail.png" alt="" width="768" height="1285"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Grocery-Box-2.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Grocery-Box-2-thumbnail.png" alt="" width="768" height="1217"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Meet-our-Chef.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Meet-our-Chef-thumbnail.png" alt="" width="768" height="767"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Product.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Product-thumbnail.png" alt="" width="768" height="1262"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Subscription-1.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Subscription-1-thumbnail.png" alt="" width="768" height="1240"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Contact.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Contact-thumbnail.png" alt="" width="768" height="703"></a></figure>
-<figure class="gallery__item"><a href="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Hua-Ban-2.png" ><img src="https://sayid233.github.io/Tianyao/media/posts/8/gallery/Hua-Ban-2-thumbnail.png" alt="" width="768" height="491"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Home.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Home-thumbnail.png" alt="" width="768" height="2014"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Grocery-Box-1.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Grocery-Box-1-thumbnail.png" alt="" width="768" height="1285"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Grocery-Box-2.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Grocery-Box-2-thumbnail.png" alt="" width="768" height="1217"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Meet-our-Chef.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Meet-our-Chef-thumbnail.png" alt="" width="768" height="767"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Product.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Product-thumbnail.png" alt="" width="768" height="1262"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Subscription-1.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Subscription-1-thumbnail.png" alt="" width="768" height="1240"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Contact.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Contact-thumbnail.png" alt="" width="768" height="703"></a></figure>
+<figure class="gallery__item"><a href="http://tianyao.fun/media/posts/8/gallery/Hua-Ban-2.png" ><img src="http://tianyao.fun/media/posts/8/gallery/Hua-Ban-2-thumbnail.png" alt="" width="768" height="491"></a></figure>
 </div>
             ]]>
         </content>
@@ -253,20 +255,20 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/voibook-training-app/"/>
-        <id>https://sayid233.github.io/Tianyao/voibook-training-app/</id>
+        <link href="http://tianyao.fun/voibook-training-app/"/>
+        <id>http://tianyao.fun/voibook-training-app/</id>
 
         <updated>2019-11-17T22:54:15+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/7/cover14x-100.jpg" alt="" />
                     Listening and Speaking training APP for hearing-loss people. I am a hearing-loss&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" />
-                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/cover14x-100.jpg" alt="" width="4188" height="2832"></figure>
+                    <img src="http://tianyao.fun/media/posts/7/cover14x-100.jpg" alt="" />
+                <figure class="post__image"><img src="http://tianyao.fun/media/posts/7/cover14x-100.jpg" alt="" width="4188" height="2832"></figure>
 <p class="align-center"><em>Listening and Speaking training APP for hearing-loss people. </em></p>
 <h2 id="mcetoc_1dpmp73g90" class="align-center"><strong>Background</strong></h2>
 <blockquote>
@@ -278,7 +280,7 @@
 <p class="msg msg--highlight " style="color: #fc8063; font-family: 'Raleway', sans-serif;"><strong>How might we help hearing-loss people do listening and speaking rehabilitation through APP?</strong></p>
 </blockquote>
 <p>We followed a process with 3 phases of research: exploratory, generative, and evaluative. As a result, we were able to experiment with a variety of research methods, which led to some valuable insights and concept directions.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/37.png" alt="" width="1142" height="208"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/37.png" alt="" width="1142" height="208"></figure>
 <h2 id="mcetoc_1dpmqi5791" class="align-center">Exploratory Research</h2>
 <pre id="mcetoc_1dpmqiehg2" class="align-center" style="color: #fc8063;">Literature Review</pre>
 <p>I began by reading a lot of thesis about characteristics, language recognition and rehabilitation of the hearing-loss. Through this research I discovered some initial insights that guided us moving forward:</p>
@@ -288,35 +290,35 @@
 <li><em><strong>Hearing-loss people are better at using visual and kinesthetic cognition.</strong></em></li>
 </ul>
 <pre id="mcetoc_1dpmqiehg2" class="align-center" style="color: #fc8063;">Competitive Analysis</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/38.png" alt="" width="1203" height="668"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/38.png" alt="" width="1203" height="668"></figure>
 <p>Most of the current foreign apps are developed by speech therapy companies, and many applications are designed for speech language therapists. Foreign apps will classify vowels, consonants, and consonant clusters. their target is clear, and most of them have different difficult degree. In addition, there are also APPs dedicated to a certain consonant. Most domestic apps are designed for children to learn pinyin. There are no apps for both hearing and speech rehabilitation.</p>
 <p>I also learned some devices for speech rehabilitation, such as Changzhou Qianxi, Shanghai Taiyige and COGNI. Those devices are expensive and mostly designed for school, hospital and language rehabilitation institution. I tried COGNI, actually the design and content are simple. Many features can be fully applied in apps.</p>
 <pre id="mcetoc_1dpmqoqc03" class="align-center" style="color: #fc8063;">Previous design</pre>
 <p class="align-center">Those are pinyin training I did in voibook company before.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/39.png" alt="" width="1078" height="1031"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/39.png" alt="" width="1078" height="1031"></figure>
 <pre id="mcetoc_1dpmqrmoc4" class="align-center" style="color: #fc8063;">Survey</pre>
 <p>In order to understand who are our targeted users, what’s user requirement and how to fulfill their requirements, I conducted a survey and 135 results were collected. The following picture is part of the questionnarie.</p>
-<p class="align-center"> <img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/7/40.png" alt="" width="325" height="446"></p>
+<p class="align-center"> <img class="align-center" src="http://tianyao.fun/media/posts/7/40.png" alt="" width="325" height="446"></p>
 <pre id="mcetoc_1dpmqrmoc4" class="align-center" style="color: #fc8063;">User Interview</pre>
 <p>To understand the problem scope and the exercises experience from both sides, I conducted interviews with 5 hearing-loss people and concluded several points.</p>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/7/41.png" alt="" width="975" height="140"></p>
+<p><img src="http://tianyao.fun/media/posts/7/41.png" alt="" width="975" height="140"></p>
 <ul style="list-style-type: circle;">
 <li><em><strong>In general, they need hearing persons' help to correct their pronunciation</strong></em></li>
 <li><em><strong>Users have a greater need for voice correction</strong></em></li>
 <li><em><strong>They hope the App can tell them how to improve their pronunciation</strong></em></li>
 </ul>
-<pre id="mcetoc_1dpmqrmoc4" class="align-center" style="color: #fc8063;">Persona<img src="https://sayid233.github.io/Tianyao/media/posts/7/42.png" alt="" width="1172" height="704"><img src="https://sayid233.github.io/Tianyao/media/posts/7/43.png" alt="" width="1172" height="656"></pre>
+<pre id="mcetoc_1dpmqrmoc4" class="align-center" style="color: #fc8063;">Persona<img src="http://tianyao.fun/media/posts/7/42.png" alt="" width="1172" height="704"><img src="http://tianyao.fun/media/posts/7/43.png" alt="" width="1172" height="656"></pre>
 <h2 id="mcetoc_1dpmr6b235" class="align-center">Genertive Research</h2>
 <p>After our exploratory research, we began generative research with the goal of sparking ideas that can overcome the difficulties. We generated the following insights:</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/44.png" alt="" width="1254" height="1428"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/44.png" alt="" width="1254" height="1428"></figure>
 <pre id="mcetoc_1dpmr6b235" class="align-center" style="color: #fc8063;">Solution</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/45.png" alt="" width="1147" height="549"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/45.png" alt="" width="1147" height="549"></figure>
 <pre id="mcetoc_1dpmrehmv6" class="align-center" style="color: #fc8063;">Structure</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/46.png" alt="" width="1074" height="1255"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/46.png" alt="" width="1074" height="1255"></figure>
 <h2 id="mcetoc_1dpmrg6407" class="align-center">Evaluative Research</h2>
 <p>With our concept direction set, I began creating wireframes. I developed various iterations of the key features and began gathering feedback from our expert and development teams.</p>
 <pre id="mcetoc_1dpmrg6407" class="align-center" style="color: #fc8063;">Wireframing</pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/47.png" alt="" width="1114" height="2112"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/47.png" alt="" width="1114" height="2112"></figure>
 <p class="align-left">I received vital feedback from our team that we then integrated into our final designs.</p>
 <ul style="list-style-type: circle;">
 <li><strong><em>If it is just a large number of cards sliding, it is difficult for users to locate the content they want to practice, which is less efficient.</em></strong></li>
@@ -325,7 +327,7 @@
 </ul>
 <h3 id="mcetoc_1dpmrlhs28" class="align-center" style="color: #fc8063; font-family: 'Raleway', sans-serif;">Voibook Training App</h3>
 <p>The result of all this research and iteration is the Listening and Speaking training APP for hearing-loss people. Voibook training App is in order to help hearing-loss people to do basic language rehabilitation and live a normal life.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/7/48.png" alt="" width="1144" height="627"><img src="https://sayid233.github.io/Tianyao/media/posts/7/49.png" alt="" width="1144" height="626"><img src="https://sayid233.github.io/Tianyao/media/posts/7/50.png" alt="" width="1144" height="551"><img src="https://sayid233.github.io/Tianyao/media/posts/7/51.png" alt="" width="1144" height="570"><img src="https://sayid233.github.io/Tianyao/media/posts/7/52.png" alt="" width="1144" height="552"><img src="https://sayid233.github.io/Tianyao/media/posts/7/54.png" alt="" width="1144" height="548"><img src="https://sayid233.github.io/Tianyao/media/posts/7/55.png" alt="" width="1144" height="1031"><img src="https://sayid233.github.io/Tianyao/media/posts/7/56.png" alt="" width="1144" height="570"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/7/48.png" alt="" width="1144" height="627"><img src="http://tianyao.fun/media/posts/7/49.png" alt="" width="1144" height="626"><img src="http://tianyao.fun/media/posts/7/50.png" alt="" width="1144" height="551"><img src="http://tianyao.fun/media/posts/7/51.png" alt="" width="1144" height="570"><img src="http://tianyao.fun/media/posts/7/52.png" alt="" width="1144" height="552"><img src="http://tianyao.fun/media/posts/7/54.png" alt="" width="1144" height="548"><img src="http://tianyao.fun/media/posts/7/55.png" alt="" width="1144" height="1031"><img src="http://tianyao.fun/media/posts/7/56.png" alt="" width="1144" height="570"></figure>
 <p> </p>
 <p> </p>
             ]]>
@@ -336,20 +338,20 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/strawberry/"/>
-        <id>https://sayid233.github.io/Tianyao/strawberry/</id>
+        <link href="http://tianyao.fun/strawberry/"/>
+        <id>http://tianyao.fun/strawberry/</id>
 
         <updated>2019-11-17T22:54:28+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" />
+                        <img src="http://tianyao.fun/media/posts/6/17.png" alt="" />
                     An App to help couples maintain their long distance relationship through artificial&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" />
-                <figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/17.png" alt="" width="1366" height="946"></figure>
+                    <img src="http://tianyao.fun/media/posts/6/17.png" alt="" />
+                <figure class="post__image"><img src="http://tianyao.fun/media/posts/6/17.png" alt="" width="1366" height="946"></figure>
 <p><em>An App to help couples maintain their long distance relationship through artificial intelligence.</em></p>
 <h2 id="mcetoc_1dpl6cdng0" class="align-center">Background</h2>
 <blockquote>
@@ -361,17 +363,17 @@
 <p class="msg msg--highlight align-center">How might we use <strong>artificial intelligence</strong> to help couples in <strong>long-distance relationship</strong> enhance their <strong>connection</strong>?</p>
 </blockquote>
 <p>We followed a process with 3 phases of research: exploratory, generative, and evaluative. As a result, we were able to experiment with a variety of research methods, which led to some valuable insights and concept directions.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/18.png" alt="" width="1108" height="192"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/18.png" alt="" width="1108" height="192"></figure>
 <h2 id="mcetoc_1dpl6jgr31" class="align-center">Exploratory Research</h2>
 <pre id="mcetoc_1dpl6jsm72" class="align-center"><strong>Brainstorming</strong></pre>
 <figure class="post__image">
 <figure class="post__image">
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/Artboard-94x-8.png" alt="" width="5460" height="2076"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/Artboard-94x-8.png" alt="" width="5460" height="2076"></figure>
 </figure>
 </figure>
 <pre id="mcetoc_1dpl6mhmm3" class="align-center"><strong>Literature Review</strong></pre>
 <p>I began by reading some thesis about long-distance relationship. Through this research I discovered some initial insights that guided us moving forward:</p>
-<p>      <img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/6/20.png" alt="" width="628" height="573"></p>
+<p>      <img class="align-center" src="http://tianyao.fun/media/posts/6/20.png" alt="" width="628" height="573"></p>
 <h4 id="mcetoc_1dpl6p7f84" class="align-center">Characteristics of long-distance couples</h4>
 <ul style="list-style-type: circle;">
 <li><em><strong>High economic pressure on both sides</strong></em></li>
@@ -390,17 +392,17 @@
 <p><a href="https://sm.ms/image/zdqL1DuTyEiF7IZ" target="_blank" rel="noopener noreferrer"><img class="align-center" src="https://i.loli.net/2019/11/17/zdqL1DuTyEiF7IZ.jpg" width="760" height="769"></a></p>
 <pre id="mcetoc_1dpl72otj8" class="align-center"><strong>Survey</strong></pre>
 <p>In order to understand who are our targeted users, what’s user requirement and how to fulfill their requirements, I conducted a survey and 353 results were collected (293 are valid).</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/23.png" alt="" width="1110" height="448"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/23.png" alt="" width="1110" height="448"></figure>
 <p>After surveys and interviews with long distance couples. Through those research I discovered some keywords that guided us moving forward:</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/24.png" alt="" width="952" height="128"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/24.png" alt="" width="952" height="128"></figure>
 <pre id="mcetoc_1dpmmpk8m0" class="align-center"> <strong>Persona</strong></pre>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/6/25.png" alt="" width="1203" height="726"></p>
+<p><img src="http://tianyao.fun/media/posts/6/25.png" alt="" width="1203" height="726"></p>
 <h2 id="mcetoc_1dpmmuf671" class="align-center">Genertive Research</h2>
 <p>After our exploratory research, we began generative research with the goal of sparking ideas that can overcome the difficulties. We generated the following insights:</p>
 <pre id="mcetoc_1dpmmv9g22" class="align-center"><strong>Scenarios</strong></pre>
 <figure class="post__image">
 <figure class="post__image">
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/134x-8.png" alt="" width="5464" height="3324"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/134x-8.png" alt="" width="5464" height="3324"></figure>
 </figure>
 </figure>
 <pre id="mcetoc_1dpmni44s3" class="align-center"><strong>User Journey Map</strong></pre>
@@ -408,19 +410,19 @@
 <figure class="post__image"></figure>
 <pre id="mcetoc_1dpmntvgh5" class="align-center"><strong>Solution<br></strong></pre>
 <figure class="post__image"></figure>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/28.png" alt="" width="1174" height="229"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/28.png" alt="" width="1174" height="229"></figure>
 <pre id="mcetoc_1dpmnv9bu6" class="align-center"><strong>Structure</strong></pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/29.png" alt="" width="1068" height="1066"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/29.png" alt="" width="1068" height="1066"></figure>
 <h2 id="mcetoc_1dpmo1dv67" class="align-center">Evaluative Research</h2>
 <p>With our concept direction set, I began creating wireframes. I developed various iterations of the key features.</p>
 <pre id="mcetoc_1dpmo2b0r8" class="align-center"><strong>Wireframing</strong></pre>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/30.png" alt="" width="997" height="687"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/30.png" alt="" width="997" height="687"></figure>
 <pre id="mcetoc_1dpmo3sui9" class="align-center"><strong>Strawberry</strong></pre>
 <p>The result of all this research and iteration is the APP for long-distance couples to maintain their relationship.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/31.png" alt="" width="1042" height="671"><img src="https://sayid233.github.io/Tianyao/media/posts/6/32.png" alt="" width="1042" height="617"><img src="https://sayid233.github.io/Tianyao/media/posts/6/33.png" alt="" width="1042" height="587"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/31.png" alt="" width="1042" height="671"><img src="http://tianyao.fun/media/posts/6/32.png" alt="" width="1042" height="617"><img src="http://tianyao.fun/media/posts/6/33.png" alt="" width="1042" height="587"></figure>
 <h3 id="mcetoc_1dpmocbb7a" class="align-center">Updated Version</h3>
 <p>In the updated version, I want to make the App smarter. My main focus is try to help couples communicate more and solve problems between them.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/6/34.png" alt="" width="1001" height="1179"><img src="https://sayid233.github.io/Tianyao/media/posts/6/35.png" alt="" width="1001" height="637"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/6/34.png" alt="" width="1001" height="1179"><img src="http://tianyao.fun/media/posts/6/35.png" alt="" width="1001" height="637"></figure>
             ]]>
         </content>
     </entry>
@@ -429,28 +431,28 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/shopee-redesign/"/>
-        <id>https://sayid233.github.io/Tianyao/shopee-redesign/</id>
+        <link href="http://tianyao.fun/shopee-redesign/"/>
+        <id>http://tianyao.fun/shopee-redesign/</id>
 
         <updated>2019-11-17T22:55:05+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" />
                     This case study will analyse in detail and aim to improve the&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" />
+                    <img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" />
                 <figure class="post__image">
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/5/c2.jpg" alt="" width="5774" height="6209"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" width="5774" height="6209"></figure>
 </figure>
 <p><em>This case study will analyse in detail and aim to improve the user experience that Shopee buyers have when using the app to find and choose products.</em></p>
 <h2 id="mcetoc_1dpl47f5e0" class="align-center">Design Process</h2>
-<h2 id="mcetoc_1dpsa5ilh0" class="align-center"><img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/5/double-diamond.png" alt="" width="429" height="283"></h2>
+<h2 id="mcetoc_1dpsa5ilh0" class="align-center"><img class="align-center" src="http://tianyao.fun/media/posts/5/double-diamond.png" alt="" width="429" height="283"></h2>
 <h3 id="mcetoc_1dpl49jjo1" class="align-center">Discover</h3>
 <p>In order to find an UX issue of shopee, I drew wireframe to understand each part of the APP. I want to focus on the most important flow of shopee——<strong>Finding and Choosing products.</strong></p>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/5/10.png" alt="" width="963" height="340"></p>
+<p><img src="http://tianyao.fun/media/posts/5/10.png" alt="" width="963" height="340"></p>
 <p class="align-center"><strong>Pain Point</strong></p>
 <ul style="list-style-type: circle;">
 <li><em><strong>The main page contains too much information and kind confusing</strong></em></li>
@@ -460,7 +462,7 @@
 </ul>
 <pre id="mcetoc_1dpl4hn082" class="align-center" style="color: #fc8063;"><strong>User Testing</strong></pre>
 <p>I invited 2 users and ask them to finish a task in 3 Apps——Shopee, Lazada and Qoo10.They speak loudly of what they are thinking during the test. I am observing their operations and ask how they feel after the test.    </p>
-<p class="align-center"> <img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/5/11.png" alt="" width="428" height="273"></p>
+<p class="align-center"> <img class="align-center" src="http://tianyao.fun/media/posts/5/11.png" alt="" width="428" height="273"></p>
 <p style="color: #fc8063;">Task : Now you are gonna buy a gift to your friend’s cat, but you are not familiar with pet stuff, then how would you learn different products for pets? Try to choose a gift in such situation.</p>
 <p class="align-center"><strong>Pain Point of Shopee</strong></p>
 <ul style="list-style-type: circle;">
@@ -477,7 +479,7 @@
 </ul>
 <pre id="mcetoc_1dpl4t6gt4" class="align-center" style="color: #fc8063;"><strong>Competitive Analysis</strong></pre>
 <p>After I searched a lot of information about southeast asian e-commerce, I found that <strong>Shopee, Lazada, Carousell, ZALORA and Qoo10</strong> are popular, so I downloaded them to analyse them. In order to understand the user flow of finding and choosing products in different apps, I drew wireframes of each app to anslyse that.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/5/13.png" alt="" width="1116" height="1917"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/13.png" alt="" width="1116" height="1917"></figure>
 <h3 id="mcetoc_1dpl50dvg5" class="align-center">Define</h3>
 <blockquote>
 <p class="msg msg--highlight ">How might we <strong>improve the user experience</strong> when using the app to <strong>find and choose products</strong>?</p>
@@ -486,10 +488,10 @@
 <pre id="mcetoc_1dpl52qsk7" class="align-center" style="color: #fc8063;"><strong>User Flow</strong></pre>
 <p class="align-center">There are 2 ways to finish the task mention before.</p>
 <p class="align-left">Task: Now you are gonna buy a gift to your friend’s cat, but you are not familiar with pet stuff, then how would you learn different products for pets? Try to choose a gift in such situation.</p>
-<figure class="post__image">              <img src="https://sayid233.github.io/Tianyao/media/posts/5/14.png" alt="" width="565" height="365"></figure>
+<figure class="post__image">              <img src="http://tianyao.fun/media/posts/5/14.png" alt="" width="565" height="365"></figure>
 <pre id="mcetoc_1dpl57l718" class="align-center" style="color: #fc8063;"><strong>Wireframing</strong></pre>
 <p class="align-center">According to the flow, I developed the wireframe.</p>
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/5/15.png" alt="" width="1090" height="581"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/15.png" alt="" width="1090" height="581"></figure>
 <h3 id="mcetoc_1dpl5bjhg9" class="align-center">Deliver</h3>
 <pre id="mcetoc_1dpl5c3hoa" class="align-center" style="color: #fc8063;"><strong>Visual Design</strong></pre>
 <a href="https://sm.ms/image/6twHghp23ANceld" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/11/17/6twHghp23ANceld.jpg"></a>
@@ -504,21 +506,21 @@
         <author>
             <name>tianyao</name>
         </author>
-        <link href="https://sayid233.github.io/Tianyao/cloud-shopping-cart/"/>
-        <id>https://sayid233.github.io/Tianyao/cloud-shopping-cart/</id>
+        <link href="http://tianyao.fun/cloud-shopping-cart/"/>
+        <id>http://tianyao.fun/cloud-shopping-cart/</id>
 
         <updated>2019-11-17T22:55:14+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" />
+                        <img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" />
                     A function that can improve the user experience of people who have&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" />
+                    <img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" />
                 <figure class="post__image">
-<figure class="post__image"><img src="https://sayid233.github.io/Tianyao/media/posts/4/c1.jpg" alt="" width="5774" height="6265"></figure>
+<figure class="post__image"><img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" width="5774" height="6265"></figure>
 </figure>
 <figure class="post__image"><em>A function that can improve the user experience of people who have </em><em>roommates when they shop online togethter and split the bill.</em></figure>
 <h2 id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong>Background</strong></h2>
@@ -529,7 +531,7 @@
 <h2 id="mcetoc_1dpktjhcc0" class="post__image align-center">Exploratory Research</h2>
 <pre id="mcetoc_1dps71sit1" class="post__image align-center"><strong><code>User Journey Map</code></strong></pre>
 <p>I mapped out a user journey of a typical buy-things-together process to visualize areas where pain-points might arise.</p>
-<p>   <img class="align-center" src="https://sayid233.github.io/Tianyao/media/posts/4/final-Dian-Shang-Pai-Ban.png" alt="" width="633" height="567"></p>
+<p>   <img class="align-center" src="http://tianyao.fun/media/posts/4/final-Dian-Shang-Pai-Ban.png" alt="" width="633" height="567"></p>
 <pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>User Interview</code></strong></pre>
 <p>To understand the problem scope and the dining experience from both sides, I conducted 5 interviews with 4 students and 1 work starter.</p>
 <ul style="list-style-type: circle;">
@@ -543,12 +545,12 @@
 <a href="https://sm.ms/image/oL2zqOl7u1dagIf" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/11/17/oL2zqOl7u1dagIf.jpg"></a>
 <h2 id="mcetoc_1dps7uqia0" class="align-center">Genertive Research</h2>
 <p> After the exploratory research, I began generative research with the goal of sparking ideas that can overcome the difficulties. We generated the following insights:</p>
-<p><img src="https://sayid233.github.io/Tianyao/media/posts/4/64x-8.png" alt="" width="4256" height="1080"></p>
+<p><img src="http://tianyao.fun/media/posts/4/64x-8.png" alt="" width="4256" height="1080"></p>
 <pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Solution</code></strong></pre>
-<h3 id="mcetoc_1dpnp75uf0" class="post__image align-center"><img src="https://sayid233.github.io/Tianyao/media/posts/4/74x-8.png" alt="" width="1147" height="229"></h3>
+<h3 id="mcetoc_1dpnp75uf0" class="post__image align-center"><img src="http://tianyao.fun/media/posts/4/74x-8.png" alt="" width="1147" height="229"></h3>
 <h2 id="mcetoc_1dpktjhcc0" class="post__image align-center">Evaluative Research</h2>
 <p>With our concept direction set, I began creating wireframes. I developed various iterations of the key features and began gathering feedback from several classmates.</p>
-<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Wireframing</code></strong><img src="https://sayid233.github.io/Tianyao/media/posts/4/84x-8.png" width="1200" height="939"></pre>
+<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Wireframing</code></strong><img src="http://tianyao.fun/media/posts/4/84x-8.png" width="1200" height="939"></pre>
 <h3 id="mcetoc_1dpktjhcc0" class="post__image align-center" style="color: #c1aa8e;"><strong>Cloud shopping cart</strong></h3>
 <p>The result of all this research and iteration is a function that can improve the user experience of people who have roommates. The main prupose of this module is to help users split the bill when they shop online togethter.</p>
 <a href="https://sm.ms/image/oucx2kj5OdslFWe" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/11/17/oucx2kj5OdslFWe.jpg"></a>
