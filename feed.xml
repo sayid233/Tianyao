@@ -3,12 +3,29 @@
     <title>tianyaoportfolio.com</title>
     <link href="http://tianyao.fun/feed.xml" rel="self" />
     <link href="http://tianyao.fun" />
-    <updated>2020-02-23T19:57:02+08:00</updated>
+    <updated>2020-02-23T20:40:48+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
     <id>http://tianyao.fun</id>
 
+    <entry>
+        <title>Water Filter Design</title>
+        <author>
+            <name>tianyao</name>
+        </author>
+        <link href="http://tianyao.fun/water-filter-design/"/>
+        <id>http://tianyao.fun/water-filter-design/</id>
+
+        <updated>2020-02-23T20:37:45+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://tianyao.fun/media/posts/16/1.png" alt="" />
+                <img class="post__image" src="http://tianyao.fun/media/posts/16/1.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/2.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/3.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/4.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/5.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/6.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/7.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/8.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/9.png" alt="" width="1403" height="992"><img class="post__image" src="http://tianyao.fun/media/posts/16/10.png" alt="" width="1403" height="992">
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>03 Poster Collection</title>
         <author>
@@ -17,11 +34,11 @@
         <link href="http://tianyao.fun/poster-collection/"/>
         <id>http://tianyao.fun/poster-collection/</id>
 
-        <updated>2020-02-23T19:50:12+08:00</updated>
+        <updated>2020-02-23T19:57:59+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://tianyao.fun/media/posts/15/cover.png" alt="" />
+                    <img src="http://tianyao.fun/media/posts/15/coverlight.png" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="http://tianyao.fun/media/posts/15/gallery/1111111111111111111.png" ><img src="http://tianyao.fun/media/posts/15/gallery/1111111111111111111-thumbnail.png" alt="" width="668" height="858"></a></figure>
 <figure class="gallery__item"><a href="http://tianyao.fun/media/posts/15/gallery/22222222222222222.png" ><img src="http://tianyao.fun/media/posts/15/gallery/22222222222222222-thumbnail.png" alt="" width="668" height="858"></a></figure>
@@ -523,64 +540,6 @@
 <br>
 <p> </p>
 <p> </p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>07 Cloud Shopping Cart</title>
-        <author>
-            <name>tianyao</name>
-        </author>
-        <link href="http://tianyao.fun/cloud-shopping-cart/"/>
-        <id>http://tianyao.fun/cloud-shopping-cart/</id>
-
-        <updated>2020-02-23T19:56:08+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" />
-                    A function that can improve the user experience of people who have&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" />
-                <figure class="post__image">
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/4/c1.jpg" alt="" width="5774" height="6265"></figure>
-</figure>
-<figure class="post__image"><em>A function that can improve the user experience of people who have </em><em>roommates when they shop online togethter and split the bill.</em></figure>
-<h2 id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong>Background</strong></h2>
-<p>As a college student, I almost buy all the things online. And when I mentioned what I bought  with my roommates or when my roommates see things I bought, they would ask me for the link. Since we always shop in the same store online, I found it’s tiresome to wait for my roommates to choose and it’s complicated to split the money, especially there is a coupon. Also, it’s easy to forget to pay back to the person who paid all the stuff.<br><br>So I want to design a function module of an APP to solve the problem and improve the user experience of people who have roommates and like to shop together online. I framed out design challenge as follows:</p>
-<blockquote>
-<p class="msg msg--highlight  align-center">How might we help roommates shop online together and split the bill easily?</p>
-</blockquote>
-<h2 id="mcetoc_1dpktjhcc0" class="post__image align-center">Exploratory Research</h2>
-<pre id="mcetoc_1dps71sit1" class="post__image align-center"><strong><code>User Journey Map</code></strong></pre>
-<p>I mapped out a user journey of a typical buy-things-together process to visualize areas where pain-points might arise.</p>
-<p>   <img class="align-center" src="http://tianyao.fun/media/posts/4/final-Dian-Shang-Pai-Ban.png" alt="" width="633" height="567"></p>
-<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>User Interview</code></strong></pre>
-<p>To understand the problem scope and the dining experience from both sides, I conducted 5 interviews with 4 students and 1 work starter.</p>
-<ul style="list-style-type: circle;">
-<li><strong><em>Shopping togethter mostly happened during big sales</em></strong></li>
-<li><strong><em>Users usually spent a lot of time on waiting their friends to decide what to buy</em></strong></li>
-<li><strong><em>Girls like to discuss about goods and share to each other</em></strong></li>
-<li><strong><em>It’s complicated to calculate（eg：$20 off $75 purchase）</em></strong></li>
-</ul>
-<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Competitive Analysis</code></strong></pre>
-<p>I observed several money split apps that help users to calculate money and split bill. Also,I found out some similar functions from Uber, Meituan and Airbnb.           </p>
-<a href="https://sm.ms/image/oL2zqOl7u1dagIf" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/11/17/oL2zqOl7u1dagIf.jpg"></a>
-<h2 id="mcetoc_1dps7uqia0" class="align-center">Genertive Research</h2>
-<p> After the exploratory research, I began generative research with the goal of sparking ideas that can overcome the difficulties. We generated the following insights:</p>
-<p><img src="http://tianyao.fun/media/posts/4/64x-8.png" alt="" width="4256" height="1080"></p>
-<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Solution</code></strong></pre>
-<h3 id="mcetoc_1dpnp75uf0" class="post__image align-center"><img src="http://tianyao.fun/media/posts/4/74x-8.png" alt="" width="1147" height="229"></h3>
-<h2 id="mcetoc_1dpktjhcc0" class="post__image align-center">Evaluative Research</h2>
-<p>With our concept direction set, I began creating wireframes. I developed various iterations of the key features and began gathering feedback from several classmates.</p>
-<pre id="mcetoc_1dpktjhcc0" class="post__image align-center"><strong><code>Wireframing</code></strong><img src="http://tianyao.fun/media/posts/4/84x-8.png" width="1200" height="939"></pre>
-<h3 id="mcetoc_1dpktjhcc0" class="post__image align-center" style="color: #c1aa8e;"><strong>Cloud shopping cart</strong></h3>
-<p>The result of all this research and iteration is a function that can improve the user experience of people who have roommates. The main prupose of this module is to help users split the bill when they shop online togethter.</p>
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/4/final-Dian-Shang-Pai-Ban-Recovered_9.jpg" alt="" width="5109" height="5480"></figure>
-<br>
 <p> </p>
             ]]>
         </content>
