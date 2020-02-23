@@ -3,7 +3,7 @@
     <title>tianyaoportfolio.com</title>
     <link href="http://tianyao.fun/feed.xml" rel="self" />
     <link href="http://tianyao.fun" />
-    <updated>2020-02-24T00:59:52+08:00</updated>
+    <updated>2020-02-24T01:40:42+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
@@ -17,12 +17,17 @@
         <link href="http://tianyao.fun/logofolio/"/>
         <id>http://tianyao.fun/logofolio/</id>
 
-        <updated>2020-02-24T00:45:58+08:00</updated>
-            <summary></summary>
+        <updated>2020-02-24T01:37:55+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="http://tianyao.fun/media/posts/17/0.png" alt="" />
+                    Now used by the Peanut Technology Company.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://tianyao.fun/media/posts/17/0.png" alt="" />
-                <p><img class="post__image" src="http://tianyao.fun/media/posts/17/0.png" alt="" width="1639" height="857"><img class="post__image" src="http://tianyao.fun/media/posts/17/6.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/5.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/1.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/4.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/2.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/3.png" alt="" width="1639" height="921"></p>
+                <p><img class="post__image" src="http://tianyao.fun/media/posts/17/0.png" alt="" width="1639" height="857"><img class="post__image" src="http://tianyao.fun/media/posts/17/6.png" alt="" width="1639" height="921">Now used by the Peanut Technology Company.<img class="post__image" src="http://tianyao.fun/media/posts/17/5.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/1.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/4.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/2.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/3.png" alt="" width="1639" height="921"></p>
             ]]>
         </content>
     </entry>
