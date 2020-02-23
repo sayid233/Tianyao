@@ -3,12 +3,29 @@
     <title>tianyaoportfolio.com</title>
     <link href="http://tianyao.fun/feed.xml" rel="self" />
     <link href="http://tianyao.fun" />
-    <updated>2020-02-23T20:40:48+08:00</updated>
+    <updated>2020-02-23T23:33:10+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
     <id>http://tianyao.fun</id>
 
+    <entry>
+        <title>Logofolio</title>
+        <author>
+            <name>tianyao</name>
+        </author>
+        <link href="http://tianyao.fun/logofolio/"/>
+        <id>http://tianyao.fun/logofolio/</id>
+
+        <updated>2020-02-23T23:28:37+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="http://tianyao.fun/media/posts/17/0.png" alt="" />
+                <p><img class="post__image" src="http://tianyao.fun/media/posts/17/0.png" alt="" width="1639" height="857"><img class="post__image" src="http://tianyao.fun/media/posts/17/6.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/5.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/1.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/4.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/2.png" alt="" width="1639" height="921"><img class="post__image" src="http://tianyao.fun/media/posts/17/3.png" alt="" width="1639" height="921"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Water Filter Design</title>
         <author>
@@ -465,82 +482,6 @@
 <h3 id="mcetoc_1dpmocbb7a" class="align-center">Updated Version</h3>
 <p>In the updated version, I want to make the App smarter. My main focus is try to help couples communicate more and solve problems between them.</p>
 <figure class="post__image"><img src="http://tianyao.fun/media/posts/6/34.png" alt="" width="1001" height="1179"><img src="http://tianyao.fun/media/posts/6/35.png" alt="" width="1001" height="637"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>06 Shopee Redesign</title>
-        <author>
-            <name>tianyao</name>
-        </author>
-        <link href="http://tianyao.fun/shopee-redesign/"/>
-        <id>http://tianyao.fun/shopee-redesign/</id>
-
-        <updated>2020-02-23T19:55:54+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" />
-                    This case study will analyse in detail and aim to improve the&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" />
-                <figure class="post__image">
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/c2.jpg" alt="" width="5774" height="6209"></figure>
-</figure>
-<p><em>This case study will analyse in detail and aim to improve the user experience that Shopee buyers have when using the app to find and choose products.</em></p>
-<h2 id="mcetoc_1dpl47f5e0" class="align-center">Design Process</h2>
-<h2 id="mcetoc_1dpsa5ilh0" class="align-center"><img class="align-center" src="http://tianyao.fun/media/posts/5/double-diamond.png" alt="" width="429" height="283"></h2>
-<h3 id="mcetoc_1dpl49jjo1" class="align-center">Discover</h3>
-<p>In order to find an UX issue of shopee, I drew wireframe to understand each part of the APP. I want to focus on the most important flow of shopee——<strong>Finding and Choosing products.</strong></p>
-<p><img src="http://tianyao.fun/media/posts/5/10.png" alt="" width="963" height="340"></p>
-<p class="align-center"><strong>Pain Point</strong></p>
-<ul style="list-style-type: circle;">
-<li><em><strong>The main page contains too much information and kind confusing</strong></em></li>
-<li><em><strong>Hard to find categories</strong></em></li>
-<li><em><strong>Difficult to touch the shopping cart</strong></em></li>
-<li><em><strong>The filtering keyword is nice</strong></em></li>
-</ul>
-<pre id="mcetoc_1dpl4hn082" class="align-center" style="color: #fc8063;"><strong>User Testing</strong></pre>
-<p>I invited 2 users and ask them to finish a task in 3 Apps——Shopee, Lazada and Qoo10.They speak loudly of what they are thinking during the test. I am observing their operations and ask how they feel after the test.    </p>
-<p class="align-center"> <img class="align-center" src="http://tianyao.fun/media/posts/5/11.png" alt="" width="428" height="273"></p>
-<p style="color: #fc8063;">Task : Now you are gonna buy a gift to your friend’s cat, but you are not familiar with pet stuff, then how would you learn different products for pets? Try to choose a gift in such situation.</p>
-<p class="align-center"><strong>Pain Point of Shopee</strong></p>
-<ul style="list-style-type: circle;">
-<li><em><strong>They can’t find where is the categories at first</strong></em></li>
-<li><em><strong>They can’t find where is the shopping cart when they are ready to pay</strong></em></li>
-</ul>
-<pre id="mcetoc_1dpl4o3hr3" class="align-center" style="color: #fc8063;"><strong>User Comments<br></strong></pre>
-<a href="https://sm.ms/image/t9d6nSUP1mZTEhb" target="_blank" rel="noopener noreferrer"><img src="https://i.loli.net/2019/11/17/t9d6nSUP1mZTEhb.jpg"></a>
-<p>I tried to search comments from users. Many users are complaining about the search engine and the system of shopee. I try to find the complaints that I can improve through design.</p>
-<p class="align-center"><strong>Pain Point</strong></p>
-<ul style="list-style-type: circle;">
-<li><em><strong>Hard to navigate</strong></em></li>
-<li><em><strong>Crowded with pop-ups about deals</strong></em></li>
-</ul>
-<pre id="mcetoc_1dpl4t6gt4" class="align-center" style="color: #fc8063;"><strong>Competitive Analysis</strong></pre>
-<p>After I searched a lot of information about southeast asian e-commerce, I found that <strong>Shopee, Lazada, Carousell, ZALORA and Qoo10</strong> are popular, so I downloaded them to analyse them. In order to understand the user flow of finding and choosing products in different apps, I drew wireframes of each app to anslyse that.</p>
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/13.png" alt="" width="1116" height="1917"></figure>
-<h3 id="mcetoc_1dpl50dvg5" class="align-center">Define</h3>
-<blockquote>
-<p class="msg msg--highlight ">How might we <strong>improve the user experience</strong> when using the app to <strong>find and choose products</strong>?</p>
-</blockquote>
-<h3 id="mcetoc_1dpl52h4h6" class="align-center">Develop</h3>
-<pre id="mcetoc_1dpl52qsk7" class="align-center" style="color: #fc8063;"><strong>User Flow</strong></pre>
-<p class="align-center">There are 2 ways to finish the task mention before.</p>
-<p class="align-left">Task: Now you are gonna buy a gift to your friend’s cat, but you are not familiar with pet stuff, then how would you learn different products for pets? Try to choose a gift in such situation.</p>
-<figure class="post__image">                      <img src="http://tianyao.fun/media/posts/5/14.png" alt="" width="565" height="365"></figure>
-<pre id="mcetoc_1dpl57l718" class="align-center" style="color: #fc8063;"><strong>Wireframing</strong></pre>
-<p class="align-center">According to the flow, I developed the wireframe.</p>
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/15.png" alt="" width="1090" height="581"></figure>
-<h3 id="mcetoc_1dpl5bjhg9" class="align-center">Deliver</h3>
-<pre id="mcetoc_1dpl5c3hoa" class="align-center" style="color: #fc8063;"><strong>Visual Design</strong></pre>
-<figure class="post__image"><img src="http://tianyao.fun/media/posts/5/shopee-test_29.jpg" alt="" width="2622" height="2722"></figure>
-<br>
-<p> </p>
-<p> </p>
-<p> </p>
             ]]>
         </content>
     </entry>
