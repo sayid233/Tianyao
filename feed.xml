@@ -3,21 +3,21 @@
     <title>tianyaoportfolio.com</title>
     <link href="http://tianyao.fun/feed.xml" rel="self" />
     <link href="http://tianyao.fun" />
-    <updated>2020-02-23T23:33:10+08:00</updated>
+    <updated>2020-02-24T00:48:57+08:00</updated>
     <author>
         <name>tianyao</name>
     </author>
     <id>http://tianyao.fun</id>
 
     <entry>
-        <title>Logofolio</title>
+        <title>04 Logofolio</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/logofolio/"/>
         <id>http://tianyao.fun/logofolio/</id>
 
-        <updated>2020-02-23T23:28:37+08:00</updated>
+        <updated>2020-02-24T00:45:58+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -27,14 +27,14 @@
         </content>
     </entry>
     <entry>
-        <title>Water Filter Design</title>
+        <title>11 Water Filter Design</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/water-filter-design/"/>
         <id>http://tianyao.fun/water-filter-design/</id>
 
-        <updated>2020-02-23T20:37:45+08:00</updated>
+        <updated>2020-02-24T00:47:39+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -51,12 +51,13 @@
         <link href="http://tianyao.fun/poster-collection/"/>
         <id>http://tianyao.fun/poster-collection/</id>
 
-        <updated>2020-02-23T19:57:59+08:00</updated>
+        <updated>2020-02-23T23:58:23+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://tianyao.fun/media/posts/15/coverlight.png" alt="" />
-                <div class="gallery"   >
+                    <img src="http://tianyao.fun/media/posts/15/coverdddd.png" alt="" />
+                <p><img class="post__image" src="http://tianyao.fun/media/posts/15/coverdddd.png" alt="" width="1500" height="1125"></p>
+<div class="gallery"   >
 <figure class="gallery__item"><a href="http://tianyao.fun/media/posts/15/gallery/1111111111111111111.png" ><img src="http://tianyao.fun/media/posts/15/gallery/1111111111111111111-thumbnail.png" alt="" width="668" height="858"></a></figure>
 <figure class="gallery__item"><a href="http://tianyao.fun/media/posts/15/gallery/22222222222222222.png" ><img src="http://tianyao.fun/media/posts/15/gallery/22222222222222222-thumbnail.png" alt="" width="668" height="858"></a></figure>
 <figure class="gallery__item"><a href="http://tianyao.fun/media/posts/15/gallery/33333333333333333.png" ><img src="http://tianyao.fun/media/posts/15/gallery/33333333333333333-thumbnail.png" alt="" width="668" height="858"></a></figure>
@@ -68,14 +69,14 @@
         </content>
     </entry>
     <entry>
-        <title>10 Drone Video</title>
+        <title>12 Drone Video</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/drone-video/"/>
         <id>http://tianyao.fun/drone-video/</id>
 
-        <updated>2020-02-23T19:56:53+08:00</updated>
+        <updated>2020-02-24T00:47:48+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/13/Untitled-1-01.jpg" alt="" />
@@ -91,14 +92,14 @@
         </content>
     </entry>
     <entry>
-        <title>04 Disappearing Island</title>
+        <title>05 Disappearing Island</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/disappearing-island/"/>
         <id>http://tianyao.fun/disappearing-island/</id>
 
-        <updated>2020-02-23T19:54:09+08:00</updated>
+        <updated>2020-02-24T00:46:25+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/12/342352-01.jpg" alt="" />
@@ -121,14 +122,14 @@
         </content>
     </entry>
     <entry>
-        <title>05 Gift-Line</title>
+        <title>08 Gift-Line</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/gift-line/"/>
         <id>http://tianyao.fun/gift-line/</id>
 
-        <updated>2020-02-23T19:54:34+08:00</updated>
+        <updated>2020-02-24T00:46:49+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/10/Tu-Shu-Guan.jpg" alt="" />
@@ -176,14 +177,14 @@
         </content>
     </entry>
     <entry>
-        <title>09 Usability test for student I.D. card system</title>
+        <title>10 Usability test for student I.D. card system</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/usability-test-for-student-id-card-system/"/>
         <id>http://tianyao.fun/usability-test-for-student-id-card-system/</id>
 
-        <updated>2020-02-23T19:56:37+08:00</updated>
+        <updated>2020-02-24T00:47:11+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/9/dssdvcsdv.jpg" alt="" />
@@ -256,14 +257,14 @@
         </content>
     </entry>
     <entry>
-        <title>08 You’re Chef</title>
+        <title>09 You’re Chef</title>
         <author>
             <name>tianyao</name>
         </author>
         <link href="http://tianyao.fun/youre-chef/"/>
         <id>http://tianyao.fun/youre-chef/</id>
 
-        <updated>2020-02-23T19:56:27+08:00</updated>
+        <updated>2020-02-24T00:47:00+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/8/vcgnc_15.jpg" alt="" />
@@ -317,7 +318,7 @@
         <link href="http://tianyao.fun/voibook-training-app/"/>
         <id>http://tianyao.fun/voibook-training-app/</id>
 
-        <updated>2020-02-23T19:48:13+08:00</updated>
+        <updated>2020-02-23T23:58:58+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://tianyao.fun/media/posts/7/cover14x-100.jpg" alt="" />
